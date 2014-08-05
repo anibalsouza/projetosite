@@ -1,14 +1,14 @@
 <<<<<<< HEAD
-.c9/
-.git/
-.alphaTESTErun/
-.build/
-.demos/
-.docs/
-.framework/
-.htdocs/
-.requirements/
-.tests/
+.c9/**
+.git/**
+.alphaTESTErun/**
+.build/**
+.demos/**
+.docs/**
+.framework/**
+.htdocs/**
+.requirements/**
+.tests/*
 .mailmap
 .travis.yml
 CHANGELOG
